@@ -15,7 +15,7 @@ function App() {
       if (1 <= counter && counter <= 10) {
         return 'OUCH!'
       } else {
-        return 'Please stop 😢'
+        return 'Please stop ಠ_ಠ'
       }
   }
 

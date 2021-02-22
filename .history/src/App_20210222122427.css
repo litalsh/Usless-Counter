@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  flex-direction: row;
+  margin: auto;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #363636;
+  align-self: center;
+}
+
